@@ -1,4 +1,4 @@
-<script>
+
         jQuery('.autoplay').slick({
             slidesToShow: 6,
             slidesToScroll: 1,
@@ -61,4 +61,3 @@
                 }
             ]
         });
-    </script>
